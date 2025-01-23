@@ -1,6 +1,6 @@
 # Analise de dados - Analise de Faturamento de uma Pizzaria 
 
-![Pizza](https://raw.githubusercontent.com/ChrystianRosa/pizzaria-faturamento/blob/main/projeto.png)
+![Pizza](https://github.com/ChrystianRosa/pizzaria-faturamento/blob/main/projeto.png)
 
 ## Sobre o projeto
 Este projeto tem como objetivo realizar uma análise detalhada do faturamento de uma pizzaria, destacando o total de vendas e a receita gerada. A análise também visa identificar as pizzas mais vendidas, bem como os dias e meses com o maior volume de vendas.
