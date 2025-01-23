@@ -15,7 +15,7 @@ Neste projeto, foi utilizada a database "Pizza Place Sales", disponibilizada pel
 
 ## Autor
 
-Chrystian Bernardo Rosa e Siva
+Chrystian Bernardo Rosa e Silva
 
 https://www.linkedin.com/in/chrystian-bernardo
 
