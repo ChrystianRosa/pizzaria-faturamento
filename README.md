@@ -10,6 +10,11 @@ Usando a linguagem Python, realizei a junção de quatro bases de dados em uma �
 limpeza dos dados, que incluiu a remoção de tabelas irrelevantes, a consolidação de tabelas duplicadas e o ajuste de formatações para garantir maior compatibilidade e clareza no Power BI. Por fim, os dados foram 
 salvos em um arquivo .csv para serem importados e analisados no Power BI.
 
+### Conclusão
+Ao final da análise, identificamos que os dias com menores vendas são segunda-feira e domingo. Como alternativa para melhorar esse cenário, recomendamos direcionar campanhas publicitárias e promoções específicas 
+para esses dias, com o objetivo de incentivar o aumento das vendas. Além disso, observamos os sabores com maior e menor demanda. Com base nesses dados, é viável considerar a remoção de sabores menos populares do 
+cardápio, aumentando a rentabilidade.
+
 ## Tecnologias utilizadas
 - Python
 - Power BI
